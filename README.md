@@ -7,7 +7,6 @@ Formação Acadêmica<br>
 Sou formado em Análise e Desenvolvimento de Sistemas pela UNOPAR e atualmente estou cursando pós-graduação em Inteligência Artificial e Ciência de Dados na mesma instituição.
 
 Objetivos<br>
-Estou procurando por uma posição desafiadora na área de Ciência de Dados. Gostaria de trabalhar em projetos que me permitam aplicar meus conhecimentos em aprendizado de máquina, processamento de linguagem natural e análise de dados. Estou aberto a novas oportunidades e gostaria de trabalhar em um ambiente colaborativo e dinâmico.
+Estou procurando por uma posição desafiadora na área de Desenvolvimento. Gostaria de trabalhar em projetos que me permitam aplicar meus conhecimentos em desenvolvimento. Estou aberto a novas oportunidades.
 
-Contato<br>
-Fique à vontade para entrar em contato comigo para discutir sobre oportunidades ou projetos interessantes. 
+
